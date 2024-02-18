@@ -1,4 +1,5 @@
-## Hi everyone!👋
+<div align="center">
+## Hi everyone, Galvin here!👋
 
 <!--Social Media Logos-->
 <a href="https://www.linkedin.com/in/galviinn/">
@@ -13,6 +14,13 @@
 <a href="https://www.youtube.com/channel/UCqRtDe4_Kf1LQWVsR4pwzHA">
   <img align="left" width="30px" src="https://cdn.simpleicons.org/youtube" />
 </a><br />
+
+</div>
+
+### About Me 🤵
+I'm a Computer Science student at [Kalbis University](https://kalbis.ac.id) with a **Cyber Security** specialty.  
+I am passionate about all things related with Cyber Security and Back-end Development! Currently enrolled as a  
+**Cloud Computing** student in [Bangkit Academy](https://www.linkedin.com/company/bangkit-academy/).
 
 <!--
 **Galviinn/Galviinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
