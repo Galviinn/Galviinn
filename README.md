@@ -1,4 +1,4 @@
-<div align="center" margin="20px">
+<div align="center" margin="40px">
 <h2> Hi everyone, Galvin here!👋 </h2>
 
 <!--Social Media Logos-->
