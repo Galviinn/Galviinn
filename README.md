@@ -1,18 +1,18 @@
 <div align="center">
-## Hi everyone, Galvin here!👋
+<h2> Hi everyone, Galvin here!👋 </h2>
 
 <!--Social Media Logos-->
 <a href="https://www.linkedin.com/in/galviinn/">
-  <img align="left" width="30px" src="https://cdn.simpleicons.org/linkedin"  />
+  <img width="30px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="https://steamcommunity.com/id/Galviinn/">
-  <img align="left" width="30px" src="https://cdn.simpleicons.org/steam" />
+  <img width="30px" src="https://cdn.simpleicons.org/steam" />
 </a>
 <a href="mailto:vincencius.galvin@gmail.com">
-  <img align="left" width="30px" src="https://cdn.simpleicons.org/gmail" />
+  <img width="30px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 <a href="https://www.youtube.com/channel/UCqRtDe4_Kf1LQWVsR4pwzHA">
-  <img align="left" width="30px" src="https://cdn.simpleicons.org/youtube" />
+  <img width="30px" src="https://cdn.simpleicons.org/youtube" />
 </a><br />
 
 </div>
