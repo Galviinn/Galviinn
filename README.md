@@ -19,9 +19,9 @@
 
 <div align="center">
 <h3>About Me 🤵</h3> </div>
-<p>I'm a Computer Science student at [Kalbis University](https://kalbis.ac.id) with a **Cyber Security** specialty.  
+<p>I'm a Computer Science student at <a href="https://kalbis.ac.id">Kalbis University</a> with a <b>Cyber Security</b> specialty.  
 I am passionate about all things related with Cyber Security and Back-end Development! Currently enrolled as a  
-**Cloud Computing** student in [Bangkit Academy](https://www.linkedin.com/company/bangkit-academy/).</p>
+<b>Cloud Computing</b> student in <a href="https://www.linkedin.com/company/bangkit-academy/">Bangkit Academy</a>.</p>
 
 <!--
 **Galviinn/Galviinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
