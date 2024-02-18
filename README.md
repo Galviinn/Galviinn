@@ -3,16 +3,16 @@
 
 <!--Social Media Logos-->
 <a href="https://www.linkedin.com/in/galviinn/">
-  <img align="center" padding="10px" width="30px" src="https://cdn.simpleicons.org/linkedin"  />
+  <img align="center" padding="50px" width="30px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="https://steamcommunity.com/id/Galviinn/">
-  <img align="center" padding="10px" width="30px" src="https://cdn.simpleicons.org/steam" />
+  <img align="center" padding="50px" width="30px" src="https://cdn.simpleicons.org/steam" />
 </a>
 <a href="mailto:vincencius.galvin@gmail.com">
-  <img align="center" padding="10px" width="30px" src="https://cdn.simpleicons.org/gmail" />
+  <img align="center" padding="50px" width="30px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 <a href="https://www.youtube.com/channel/UCqRtDe4_Kf1LQWVsR4pwzHA">
-  <img align="center" padding="10px" width="30px" src="https://cdn.simpleicons.org/youtube" />
+  <img align="center" padding="50px" width="30px" src="https://cdn.simpleicons.org/youtube" />
 </a><br />
 
 </div>
