@@ -3,24 +3,25 @@
 
 <!--Social Media Logos-->
 <a href="https://www.linkedin.com/in/galviinn/">
-  <img width="30px" src="https://cdn.simpleicons.org/linkedin"  />
+  <img align="center" width="30px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="https://steamcommunity.com/id/Galviinn/">
-  <img width="30px" src="https://cdn.simpleicons.org/steam" />
+  <img align="center" width="30px" src="https://cdn.simpleicons.org/steam" />
 </a>
 <a href="mailto:vincencius.galvin@gmail.com">
-  <img width="30px" src="https://cdn.simpleicons.org/gmail" />
+  <img align="center" width="30px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 <a href="https://www.youtube.com/channel/UCqRtDe4_Kf1LQWVsR4pwzHA">
-  <img width="30px" src="https://cdn.simpleicons.org/youtube" />
+  <img align="center" width="30px" src="https://cdn.simpleicons.org/youtube" />
 </a><br />
 
 </div>
 
-### About Me 🤵
-I'm a Computer Science student at [Kalbis University](https://kalbis.ac.id) with a **Cyber Security** specialty.  
+<div align="center">
+<h3>About Me 🤵</h3> </div>
+<p>I'm a Computer Science student at [Kalbis University](https://kalbis.ac.id) with a **Cyber Security** specialty.  
 I am passionate about all things related with Cyber Security and Back-end Development! Currently enrolled as a  
-**Cloud Computing** student in [Bangkit Academy](https://www.linkedin.com/company/bangkit-academy/).
+**Cloud Computing** student in [Bangkit Academy](https://www.linkedin.com/company/bangkit-academy/).</p>
 
 <!--
 **Galviinn/Galviinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
